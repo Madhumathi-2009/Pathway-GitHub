@@ -43,22 +43,28 @@ This repository is created as part of **SDNBVC SkillVerse 2026**. This project d
 
 
 
-### 📚 Learning Materials - Dynamically Linked
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=40&text=Learning%20Materials%20with%20Links&fontSize=30&fontColor=000080" width="100%"/>
 
 
-
+<div align="center">
+  
 | Day | Topic | Module Link | Notes Link |
 | :--- | :--- | :--- | :--- |
-| 📌 Day 1 | Introduction to Git & GitHub | [📄 View Module](Introduction%20to%20Git%20%26%20GitHub.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%201.pdf) |
-| 📌 Day 2 | Repository Management | [📄 View Module](Repository%20Management.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%202.pdf) |
-| 📌 Day 3 | Documentation using Markdown | [📄 View Module](Documentation%20using%20Markdown.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%203.pdf) |
-| 📌 Day 4 | Collaboration using GitHub | [📄 View Module](Collabration%20using%20GitHub.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%204.pdf) |
-| 📌 Day 5 | GitHub Pages & Portfolio | [📄 View Module](GitHub%20Pages%20%26%20Professional%20Portfolio.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%205.pdf) |
+| 📅 Day 1 | Introduction to Git & GitHub | [📄 View Module](Introduction%20to%20Git%20%26%20GitHub.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%201.pdf) |
+| 📅 Day 2 | Repository Management | [📄 View Module](Repository%20Management.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%202.pdf) |
+| 📅 Day 3 | Documentation using Markdown | [📄 View Module](Documentation%20using%20Markdown.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%203.pdf) |
+| 📅 Day 4 | Collaboration using GitHub | [📄 View Module](Collabration%20using%20GitHub.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%204.pdf) |
+| 📅 Day 5 | GitHub Pages & Portfolio | [📄 View Module](GitHub%20Pages%20%26%20Professional%20Portfolio.pdf) | [📝 View Notes](Skill%20verse-Notes-Day%205.pdf) |
+
+</div>
 
 ---
 
-📄 **Reports:** [Click here to view our complete project & Learning reports ]( https://madhumathi-2009.github.io/Pathway-GitHub/)
+<div align="center">
 
+## 📄 **Reports :** [Click here to view our complete project & Learning reports ]( https://madhumathi-2009.github.io/Pathway-GitHub/)
+
+</div>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=SPECIAL%20THANKS%20TO%20OUR%20MENTOR&fontSize=15&fontColor=FFFFFF" width="100%"/>
@@ -85,4 +91,8 @@ Special thanks to **SDNBVC** for organizing this wonderful 5-day skill developme
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000080&height=4&section=footer&text=&fontSize=1" width="100%"/>
 </p>
 
+<div align="center">
+  
+![Views](https://komarev.com/ghpvc/?username=TeamGitHubEssentials-2026&repo=GitHub_Essentials_for_Non_Programmers&style=flat-square&color=1A237E)
 
+</div>
