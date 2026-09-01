@@ -16,13 +16,14 @@
 <td width="50%">
 
 
-#### 🎯 About this course
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=40&text=About%20this%20Course&fontSize=30&fontColor=000080" width="100%"/>
  A professional resource hub built for non-programmers to learn GitHub easily through mind maps, modules, and daily implementation.
 
 </td>
 <td width="50%">
 
-#### 🌷 About The Project
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=40&text=About%20this%20Repository&fontSize=30&fontColor=000080" width="100%"/>
+
 This repository is created as part of **SDNBVC SkillVerse 2026**. This project documents our learning journey through Github with proper learning modules, Handwritten Notes and GitHub Pages website
 
 </td>
