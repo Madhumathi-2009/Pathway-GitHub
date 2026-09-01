@@ -77,7 +77,7 @@ Special thanks to **SDNBVC** for organizing this wonderful 5-day skill developme
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A1931&height=4&section=footer&text=&fontSize=1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000080&height=4&section=footer&text=&fontSize=1" width="100%"/>
 </p>
 
 
