@@ -56,7 +56,7 @@ This repository is created as part of **SDNBVC SkillVerse 2026**. This project d
 
 ---
 
-📄 **Reports:** [Click here to view our complete project & Learning reports ](.index.html)
+📄 **Reports:** [Click here to view our complete project & Learning reports ](./index.html)
 
 ---
 
