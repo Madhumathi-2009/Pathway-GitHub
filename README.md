@@ -43,7 +43,7 @@ This repository is created as part of **SDNBVC SkillVerse 2026**. This project d
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=40&text=Learning%20Materials%20with%20Links&fontSize=30&fontColor=000080" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=40&text=Learning%20Materials%20with%20Links&fontSize=25&fontColor=000080" width="100%"/>
 
 
 <div align="center">
