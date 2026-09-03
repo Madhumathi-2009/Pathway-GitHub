@@ -65,7 +65,8 @@ This repository is created as part of **SDNBVC SkillVerse 2026**. This project d
 
 <div align="center">
 
-## 📄 **Reports :** [Click here to view our complete project & Learning reports ](https://madhumathi-2009.github.io/Pathway-GitHub/)
+## 📄 **Reports :** [Click here to view our complete project & Learning reports ](https://madhumathi-2009.github.io/Pathway-GitHub/?v=2)
+
 
 </div>
 ---
