@@ -6,7 +6,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Spirit&weight=700&size=20&pause=1000&color=191970&center=true&vCenter=true&width=650&lines=GITHUB+ESSENTIALS+FOR+NON+PROGRAMMERS+RESOURCE+HUB" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000080&height=40&text=TRAINER%20%3A%20Dr.%20Prof.%20Varalakshmi%20R&fontSize=15&fontColor=FFFFFF" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=191970&height=100&section=header&text=TRAINER%20%3A%20Dr.%20Prof.%20Varalakshmi%20R&fontSize=20&fontColor=FFFFFF&animation=fadeIn&desc=Dean%20of%20Academics%20%7C%20Associate%20Professor%20and%20Heads%20%7C%20M.Sc.%20Data%20Science%20and%20AI&descSize=16&descAlignY=70" width="100%"/>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
