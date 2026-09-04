@@ -80,9 +80,11 @@ This repository is created as part of **SDNBVC SkillVerse 2026**. This project d
 
 We sincerely thank **Dr. Prof. Varalakshmi R** for her excellent guidance, valuable insights, and constant support throughout the **SDNBVC SkillVerse 2026**.
 Her mind-map based teaching and interactive sessions made learning GitHub easy and enjoyable for non-programmers like us.
-Special thanks to **SDNBVC** for organizing this wonderful 5-day skill development program.
 
 <br>
+
+**Special thanks to [SDNB Vaishnav College for Women](https://www.linkedin.com/school/sdnb-vaishnav-college-chennai/) for organizing this wonderful 5-day skill development program.**
+
 
 **With Gratitude,**<br>
 **Madhumathi & Kalaiselvi**<br>
