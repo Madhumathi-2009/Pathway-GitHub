@@ -83,7 +83,7 @@ Her mind-map based teaching and interactive sessions made learning GitHub easy a
 
 <br>
 
-**Thanks to [SDNB Vaishnav College for Women](https://www.linkedin.com/school/sdnb-vaishnav-college-chennai/) for organizing this wonderful 5-day skill development program.**
+**Thanks to [SDNB Vaishnav College for Women](https://www.linkedin.com/school/sdnb-vaishnav-college-chennai/) for organizing this wonderful skill development program.**
 
 
 **With Gratitude,**<br>
