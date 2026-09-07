@@ -87,7 +87,7 @@ Her mind-map based teaching and interactive sessions made learning GitHub easy a
 
 
 **With Gratitude,**<br>
-**C.Madhumathi & Kalaiselvi**<br>
+**C.Madhumathi & Kalaiselvi & Akshaya**<br>
 
 </td>
 </tr>
